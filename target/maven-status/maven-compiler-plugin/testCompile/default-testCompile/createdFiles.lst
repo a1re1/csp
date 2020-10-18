@@ -1,6 +1,0 @@
-com\wbs\ldp\LDPCommunicatorTest.class
-com\wbs\ldp\messages\BaseMessageTest.class
-com\wbs\ldp\messages\BaseMessageFixtures.class
-com\wbs\ldp\NetworkingTestSuite.class
-com\wbs\ldp\MessageTest.class
-com\wbs\ldp\TestLDPCommunicator.class
