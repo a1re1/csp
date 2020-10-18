@@ -1,6 +1,6 @@
-C:\Users\twwhi\IdeaProjects\LosslessDatagramProtocol\src\test\java\com\wbs\ldp\NetworkingTestSuite.java
-C:\Users\twwhi\IdeaProjects\LosslessDatagramProtocol\src\test\java\com\wbs\ldp\TestLDPCommunicator.java
-C:\Users\twwhi\IdeaProjects\LosslessDatagramProtocol\src\test\java\com\wbs\ldp\LDPCommunicatorTest.java
-C:\Users\twwhi\IdeaProjects\LosslessDatagramProtocol\src\test\java\com\wbs\ldp\messages\BaseMessageFixtures.java
-C:\Users\twwhi\IdeaProjects\LosslessDatagramProtocol\src\test\java\com\wbs\ldp\messages\BaseMessageTest.java
-C:\Users\twwhi\IdeaProjects\LosslessDatagramProtocol\src\test\java\com\wbs\ldp\MessageTest.java
+C:\Users\twwhi\IdeaProjects\csp\src\test\java\com\wbs\ldp\MessageTest.java
+C:\Users\twwhi\IdeaProjects\csp\src\test\java\com\wbs\ldp\messages\BaseMessageTest.java
+C:\Users\twwhi\IdeaProjects\csp\src\test\java\com\wbs\ldp\LDPCommunicatorTest.java
+C:\Users\twwhi\IdeaProjects\csp\src\test\java\com\wbs\ldp\NetworkingTestSuite.java
+C:\Users\twwhi\IdeaProjects\csp\src\test\java\com\wbs\ldp\TestLDPCommunicator.java
+C:\Users\twwhi\IdeaProjects\csp\src\test\java\com\wbs\ldp\messages\BaseMessageFixtures.java
